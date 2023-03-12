@@ -1,0 +1,3 @@
+/home/canh2906/Music/caro_socket_c/Server/cmake-build-debug/CMakeFiles/Server.dir
+/home/canh2906/Music/caro_socket_c/Server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/canh2906/Music/caro_socket_c/Server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
