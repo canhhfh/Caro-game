@@ -317,12 +317,12 @@
                         <property name="margin_left">5</property>
                         <property name="margin_right">5</property>
                         <property name="margin_top">60</property>
-                        <property name="label" translatable="yes">Cài đặt game</property>
+                        <property name="label" translatable="yes">New game</property>
                         <attributes>
-                          <attribute name="font-desc" value="Ani Bold 24"/>
+                          <attribute name="font-desc" value="Monospace Bold 24"/>
                           <attribute name="foreground" value="#20204a4a8787"/>
                         </attributes>
-                        <style>
+                        <style>game
                           <class name="lbel-history"/>
                         </style>
                       </object>
@@ -451,9 +451,9 @@
                         <property name="margin_left">5</property>
                         <property name="margin_right">5</property>
                         <property name="margin_top">60</property>
-                        <property name="label" translatable="yes">Lịch sử thi đấu của bạn</property>
+                        <property name="label" translatable="yes">History</property>
                         <attributes>
-                          <attribute name="font-desc" value="Ani Bold 24"/>
+                          <attribute name="font-desc" value="Monospace Bold 24"/>
                           <attribute name="foreground" value="#20204a4a8787"/>
                         </attributes>
                         <style>
@@ -527,9 +527,9 @@
                         <property name="margin_left">5</property>
                         <property name="margin_right">5</property>
                         <property name="margin_top">60</property>
-                        <property name="label" translatable="yes">Danh sách online</property>
+                        <property name="label" translatable="yes">Player online</property>
                         <attributes>
-                          <attribute name="font-desc" value="Ani Bold 24"/>
+                          <attribute name="font-desc" value="Monospace Bold 24"/>
                           <attribute name="foreground" value="#20204a4a8787"/>
                         </attributes>
                         <style>
@@ -602,10 +602,12 @@
                         <property name="height_request">80</property>
                         <property name="visible">True</property>
                         <property name="can_focus">False</property>
+                        <property name="margin_left">5</property>
+                        <property name="margin_right">5</property>
                         <property name="margin_top">60</property>
-                        <property name="label" translatable="yes">Thông báo</property>
+                        <property name="label" translatable="yes">Notify</property>
                         <attributes>
-                          <attribute name="font-desc" value="Ani Bold 24"/>
+                          <attribute name="font-desc" value="Monospace Bold 24"/>
                           <attribute name="foreground" value="#20204a4a8787"/>
                         </attributes>
                         <style>

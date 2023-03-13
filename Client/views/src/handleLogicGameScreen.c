@@ -4,7 +4,7 @@
 
 void change_label_next_person() {
     gtk_label_set_text(GTK_LABEL(userData.gameApplication->gameContainer.lbl_next_person),
-                       userData.isNext == NEXT_YOU ? "bạn" :
+                       userData.isNext == NEXT_YOU ? "Bạn" :
                        userData.person);
 }
 
